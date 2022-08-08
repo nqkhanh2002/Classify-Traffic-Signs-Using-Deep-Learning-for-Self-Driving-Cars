@@ -1,11 +1,13 @@
-In this hands-on project, we will train deep learning models known as Convolutional Neural Networks (CNNs) to classify 43 traffic sign images. This project could be practically applied to self-driving cars. In this hands-on project we will go through the following tasks: 
+## About The Project
+In this hands-on project, I will train deep learning models known as Convolutional Neural Networks (CNNs) to classify 43 traffic sign images. This project could be practically applied to self-driving cars. In this hands-on project I will go through the following tasks: 
 * (1) Import libraries and datasets 
 * (2) Images visualization 
 * (3) Convert images to gray-scale and perform normalization 
 * (4) Build deep learning model 
 * (5) Compile and train deep learning model 
 * (6) Assess trained model performance
-- In this case study, we want to classify images of traffic signs using deep Convolutional Neural Networks (CNNs).
+##  Dataset
+I want to classify images of traffic signs using deep Convolutional Neural Networks (CNNs).
 - The dataset consists of 43 different classes of images. 
 - Classes are as listed below: 
   - 0 = Speed limit (20km/h) 
@@ -51,7 +53,19 @@ In this hands-on project, we will train deep learning models known as Convolutio
   - 40 = Roundabout mandatory
   - 41 = End of no passing
   - 42 = End of no passing by vehicles over 3.5 metric tons
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- Citation
+## Citation
 J. Stallkamp, M. Schlipsing, J. Salmen, and C. Igel. The German Traffic Sign Recognition Benchmark: A multi-class classification competition. In Proceedings of the IEEE International Joint Conference on Neural Networks, pages 1453–1460. 2011. 
 @inproceedings{Stallkamp-IJCNN-2011, author = {Johannes Stallkamp and Marc Schlipsing and Jan Salmen and Christian Igel}, booktitle = {IEEE International Joint Conference on Neural Networks}, title = {The {G}erman {T}raffic {S}ign {R}ecognition {B}enchmark: A multi-class classification competition}, year = {2011}, pages = {1453--1460} }
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Installation
+1. Clone the repo
+    ```sh
+   https://github.com/nqkhanh2002/Classify-Traffic-Signs-Using-Deep-Learning-for-Self-Driving-Cars.git
+   ```
+2. Run the jupyter notebook 
+    Notebook will automatically download data to your device. During notebook execution, use the package installer for Python to 
+    install packages that you are missing.
+
