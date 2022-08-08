@@ -1,10 +1,5 @@
-[![Contributors][contributors-shield]][[contributors-url](https://github.com/nqkhanh2002/Classify-Traffic-Signs-Using-Deep-Learning-for-Self-Driving-Cars/graphs/contributors)]
-[![Forks][forks-shield]][[forks-url](https://github.com/nqkhanh2002/Classify-Traffic-Signs-Using-Deep-Learning-for-Self-Driving-Cars/network/members)]
-[![Stargazers][stars-shield]][https://github.com/nqkhanh2002/Classify-Traffic-Signs-Using-Deep-Learning-for-Self-Driving-Cars/stargazers]
-[![Issues][issues-shield]][https://github.com/nqkhanh2002/Classify-Traffic-Signs-Using-Deep-Learning-for-Self-Driving-Cars/issues]
-[![Facebook][linkedin-shield]][https://www.facebook.com/nqk.dev]
 
-
+<a name="readme-top"></a>
 
 <!-- PROJECT LOGO -->
 <br />
@@ -86,6 +81,9 @@ I want to classify images of traffic signs using deep Convolutional Neural Netwo
 2. Run the jupyter notebook 
     Notebook will automatically download data to your device. During notebook execution, use [the package installer for Python](https://pypi.org/project/pip/) to install packages that you are missing.
 
+## Contact 
+* Facebook : [Nguyễn Quốc Khánh](https://www.facebook.com/nqk.dev)
+* Email : nqkdeveloper@gmail.com
 ## Citation
 J. Stallkamp, M. Schlipsing, J. Salmen, and C. Igel. The German Traffic Sign Recognition Benchmark: A multi-class classification competition. In Proceedings of the IEEE International Joint Conference on Neural Networks, pages 1453–1460. 2011. 
 @inproceedings{Stallkamp-IJCNN-2011, author = {Johannes Stallkamp and Marc Schlipsing and Jan Salmen and Christian Igel}, booktitle = {IEEE International Joint Conference on Neural Networks}, title = {The {G}erman {T}raffic {S}ign {R}ecognition {B}enchmark: A multi-class classification competition}, year = {2011}, pages = {1453--1460} }
