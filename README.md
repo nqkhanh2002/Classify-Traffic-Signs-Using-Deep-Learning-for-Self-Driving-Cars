@@ -9,6 +9,8 @@
   </p>
 </div>
 
+<h1 align = "center"> Classify Traffic Signs Using Deep Learning for Self-Driving Cars </h1>
+
 ## About The Project
 In this hands-on project, I will train deep learning models known as Convolutional Neural Networks (CNNs) to classify 43 traffic sign images. This project could be practically applied to self-driving cars. In this hands-on project I will go through the following tasks: 
 * (1) Import libraries and datasets 
