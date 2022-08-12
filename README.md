@@ -1,11 +1,6 @@
-
 <a name="readme-top"></a>
-
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <p align="center">
-    <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
     <a href="https://github.com/nqkhanh2002/Classify-Traffic-Signs-Using-Deep-Learning-for-Self-Driving-Cars/issues">Report Bug</a>
